@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.0.1' threshold='low' effort='max'><Error></Error><Project><SrcDir>/home/lochana/Downloads/product-mss-master-test/samples/MemberServices/src/main/java</SrcDir><SrcDir>/home/lochana/Downloads/product-mss-master-test/samples/MemberServices/target/generated-sources/annotations</SrcDir><SrcDir>/home/lochana/Downloads/product-mss-master-test/samples/MemberServices/src/test/java</SrcDir></Project></BugCollection>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/lochana/Downloads/product-mss-master-test/samples/MemberServices/src/main/java/org/wso2/carbon/mss/loch/testcasetwo/Application.java">
+</file>
+<file name="/home/lochana/Downloads/product-mss-master-test/samples/MemberServices/src/main/java/org/wso2/carbon/mss/loch/testcasetwo/MemberServices.java">
+</file>
+<file name="/home/lochana/Downloads/product-mss-master-test/samples/MemberServices/src/main/java/org/wso2/carbon/mss/loch/testcasetwo/Member.java">
+</file>
+</checkstyle>
